@@ -39,8 +39,8 @@
         <div class="container mx-auto px-4">
             <h2 class="text-2xl font-bold mb-6">FASILITAS</h2>
             <div class="relative">
-                <button id="prev" class="absolute left-0 top-1/2 transform -translate-y-1/2 bg-white p-2 shadow rounded-full z-10">←</button>
-                <button id="next" class="absolute right-0 top-1/2 transform -translate-y-1/2 bg-white p-2 shadow rounded-full z-10">→</button>
+                <button id="prev" class="hidden md:block absolute left-0 top-1/2 transform -translate-y-1/2 bg-white p-2 shadow rounded-full z-10">←</button>
+                <button id="next" class="hidden md:block absolute right-0 top-1/2 transform -translate-y-1/2 bg-white p-2 shadow rounded-full z-10">→</button>
 
                 <div id="carousel" class="flex overflow-x-auto gap-4 scroll-smooth">
                     <div class="min-w-[300px] bg-white shadow rounded overflow-hidden">
