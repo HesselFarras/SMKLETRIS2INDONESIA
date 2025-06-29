@@ -4,14 +4,22 @@
 <script src="https://cdn.tailwindcss.com"></script>
 
 <!-- Banner -->
-<section class="bg-gray-300 h-64 flex items-center justify-center">
-    <h1 class="text-3xl md:text-4xl font-bold">PPDB GELOMBANG 2</h1>
+<section class="relative">
+    <img src="/images/ppdb.png" alt="Gedung SMK" class="w-full h-[500px] object-cover">
+    <div class="absolute inset-0 bg-black bg-opacity-60 flex flex-col items-center justify-center text-white text-center">
+        <!-- <img src="/images/logoletris.png" class="w-32 mb-4" alt="Logo"> -->
+        <h1 class="text-4xl font-bold">PPDB GELOMBANG 2</h1>
+        <!-- Tombol Daftar -->
+        <div class="text-center my-8">
+            <a href="#" class="bg-gray-700 text-white px-6 py-2 rounded hover:bg-gray-800">Pendaftaran</a>
+        </div>
+    </div>
 </section>
 
 <!-- Tombol Daftar -->
-<div class="text-center my-8">
+<!-- <div class="text-center my-8">
     <a href="#" class="bg-gray-700 text-white px-6 py-2 rounded hover:bg-gray-800">Pendaftaran</a>
-</div>
+</div> -->
 
 <!-- Dokumentasi -->
 <section class="container mx-auto px-4 my-10">

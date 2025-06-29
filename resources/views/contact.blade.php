@@ -5,7 +5,7 @@
 
 <section class="bg-white py-12">
     <div class="container mx-auto px-4">
-        <h2 class="text-2xl md:text-3xl font-bold text-center mb-10 uppercase">KONTAK YAYASAN SMK LETRIS 2 INDONESIA</h2>
+        <h2 class="text-2xl md:text-3xl font-bold text-center mb-10 uppercase">KONTAK SMK LETRIS 2 INDONESIA</h2>
         
         <div class="grid md:grid-cols-2 gap-8">
             <!-- Form Kontak -->
@@ -36,10 +36,10 @@
 
                 <!-- Info Kontak -->
                 <div class="mt-6 space-y-2 text-sm">
-                    <p><strong>Address:</strong> Jl. Banyu Bening Raya Blok C / 66, Pamulang, Jakarta Barat, 11710</p>
+                    <p><strong>Address:</strong> Jl. Raya Siliwangi No.55, Pondok Benda, Tangerang Selatan, Banten</p>
                     <p><strong>Working Hours:</strong> Monday-Friday (8.00 am to 4.00 pm)</p>
-                    <p><strong>Telephone:</strong> (021) 566-6967<br>Fax: (021) 566-4126</p>
-                    <p><strong>Email (Hotline):</strong> smk.letris2@gmail.ac.id</p>
+                    <p><strong>Telephone:</strong> 0851-6186-7926</p>
+                    <p><strong>Email (Hotline):</strong> smkletris2020@gmail.com</p>
                 </div>
             </div>
 

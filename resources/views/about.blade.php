@@ -4,7 +4,7 @@
 <script src="https://cdn.tailwindcss.com"></script>
 
 <!-- Hero Section -->
-<section class="relative w-full h-[450px] bg-cover bg-center" style="background-image: url('/images/ppdb.png');">
+<section class="relative w-full h-[450px] bg-cover bg-center" style="background-image: url('/images/hero.png');">
     <div class="absolute inset-0 bg-black bg-opacity-50 flex items-center justify-center flex-col">
         <img src="/images/logoletris.png" alt="Logo" class="w-32 h-32 mb-4">
         <h1 class="text-white text-4xl font-bold text-center">Tentang</h1>
