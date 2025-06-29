@@ -4,9 +4,9 @@
 <script src="https://cdn.tailwindcss.com"></script>
 
 <!-- Hero Section -->
-<section class="relative w-full h-[450px] bg-cover bg-center" style="background-image: url('/images/smk.jpg');">
+<section class="relative w-full h-[450px] bg-cover bg-center" style="background-image: url('/images/ppdb.png');">
     <div class="absolute inset-0 bg-black bg-opacity-50 flex items-center justify-center flex-col">
-        <img src="/images/logo.png" alt="Logo" class="w-32 h-32 mb-4">
+        <img src="/images/logoletris.png" alt="Logo" class="w-32 h-32 mb-4">
         <h1 class="text-white text-4xl font-bold text-center">Tentang</h1>
         <h2 class="text-white text-3xl font-bold text-center">SMK LETRIS INDONESIA 2</h2>
     </div>

@@ -5,7 +5,7 @@
 
     <!-- Hero Section -->
     <section class="relative">
-        <img src="/images/hero.jpg" alt="Gedung SMK" class="w-full h-[500px] object-cover">
+        <img src="/images/hero.png" alt="Gedung SMK" class="w-full h-[500px] object-cover">
         <div class="absolute inset-0 bg-black bg-opacity-60 flex flex-col items-center justify-center text-white text-center">
             <img src="/images/logoletris.png" class="w-32 mb-4" alt="Logo">
             <h1 class="text-4xl font-bold">SMK LETRIS INDONESIA 2</h1>
@@ -84,7 +84,14 @@
     <section class="py-12 bg-gray-100">
         <div class="container mx-auto px-4">
             <div class="aspect-w-16 aspect-h-9">
-                <iframe class="w-full h-96" src="https://www.youtube.com/embed/YOUR_VIDEO_ID" title="Profil SMK Letris Indonesia 2" frameborder="0" allowfullscreen></iframe>
+                <!-- <iframe width="560" height="315" 
+                    src="https://youtu.be/CMchugFHO64?si=jod9HIHoMseIJIDm" 
+                    frameborder="0" 
+                    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+                    allowfullscreen>
+                </iframe> -->
+                <iframe class="w-full h-96 width="560" height="315" src="https://www.youtube.com/embed/CMchugFHO64?si=IOPlENI5v_0ckIXB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+                <!-- <iframe class="w-full h-96" src="https://www.youtube.com/watch?v=CMchugFHO64" title="Profil SMK Letris Indonesia 2" frameborder="0" allowfullscreen></iframe> -->
             </div>
         </div>
     </section>
