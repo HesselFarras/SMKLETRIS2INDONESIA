@@ -1,5 +1,31 @@
 <script src="https://cdn.tailwindcss.com"></script>
-
+<!-- News & Updates -->
+    <section id="berita" class="py-12">
+        <div class="container mx-auto px-4">
+            <h2 class="text-2xl font-bold mb-6">News & Updates</h2>
+            <div class="grid grid-cols-1 md:grid-cols-3 gap-6">
+                <div class="bg-white shadow rounded p-4">
+                    <img src="/images/event1.jpg" class="mb-2 w-full h-40 object-cover rounded" alt="Event 1">
+                    <h3 class="font-semibold text-lg">Workshop teknologi generasi Z</h3>
+                    <p class="text-sm text-gray-600">21 Juni 2025</p>
+                    <a href="{{ route('berita') }}" class="text-blue-500 mt-2 inline-block">Learn More</a>
+                </div>
+                <div class="bg-white shadow rounded p-4">
+                    <img src="/images/event1.jpg" class="mb-2 w-full h-40 object-cover rounded" alt="Event 2">
+                    <h3 class="font-semibold">Kegiatan siswa</h3>
+                    <p class="text-sm">22 Juni 2025 - Siswa aktif dalam kegiatan kewirausahaan dan sosial.</p>
+                    <a href="{{ route('berita') }}" class="text-blue-500 mt-2 inline-block">Learn More</a>
+                </div>
+                <div class="bg-white shadow rounded p-4">
+                    <img src="/images/event1.jpg" class="mb-2 w-full h-40 object-cover rounded" alt="Event 3">
+                    <h3 class="font-semibold">Organisasi Siswa</h3>
+                    <p class="text-sm">Kegiatan organisasi dan pengurus OSIS tahun 2025 aktif dan berprestasi.</p>
+                    <a href="{{ route('berita') }}" class="text-blue-500 mt-2 inline-block">Learn More</a>
+                </div>
+            </div>
+        </div>
+    </section>
+    
 <section class="bg-white py-12">
     <div class="container mx-auto px-4">
         <h2 class="text-2xl md:text-3xl font-bold text-center mb-10 uppercase">KONTAK SMK LETRIS 2 INDONESIA</h2>
@@ -47,33 +73,6 @@
         </div>
     </div>
 </section>
-
-<!-- News & Updates -->
-    <section id="berita" class="py-12">
-        <div class="container mx-auto px-4">
-            <h2 class="text-2xl font-bold mb-6">News & Updates</h2>
-            <div class="grid grid-cols-1 md:grid-cols-3 gap-6">
-                <div class="bg-white shadow rounded p-4">
-                    <img src="/images/event1.jpg" class="mb-2 w-full h-40 object-cover rounded" alt="Event 1">
-                    <h3 class="font-semibold text-lg">Workshop teknologi generasi Z</h3>
-                    <p class="text-sm text-gray-600">21 Juni 2025</p>
-                    <a href="{{ route('berita') }}" class="text-blue-500 mt-2 inline-block">Learn More</a>
-                </div>
-                <div class="bg-white shadow rounded p-4">
-                    <img src="/images/event1.jpg" class="mb-2 w-full h-40 object-cover rounded" alt="Event 2">
-                    <h3 class="font-semibold">Kegiatan siswa</h3>
-                    <p class="text-sm">22 Juni 2025 - Siswa aktif dalam kegiatan kewirausahaan dan sosial.</p>
-                    <a href="{{ route('berita') }}" class="text-blue-500 mt-2 inline-block">Learn More</a>
-                </div>
-                <div class="bg-white shadow rounded p-4">
-                    <img src="/images/event1.jpg" class="mb-2 w-full h-40 object-cover rounded" alt="Event 3">
-                    <h3 class="font-semibold">Organisasi Siswa</h3>
-                    <p class="text-sm">Kegiatan organisasi dan pengurus OSIS tahun 2025 aktif dan berprestasi.</p>
-                    <a href="{{ route('berita') }}" class="text-blue-500 mt-2 inline-block">Learn More</a>
-                </div>
-            </div>
-        </div>
-    </section>
 
 <footer class="bg-slate-900 text-white py-6">
     <div class="container mx-auto px-4 flex flex-col md:flex-row justify-between items-center">
