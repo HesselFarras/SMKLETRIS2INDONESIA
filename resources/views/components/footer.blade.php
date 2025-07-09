@@ -62,16 +62,16 @@
             <!-- Sosial Media -->
             <div class="space-x-4 flex items-center">
                 <a href="mailto:smkletris2020@gmail.com" class="hover:underline">
-                    <img src="/images/gmail.png" alt="Gmail" class="w-8 h-8">
+                    <img src="/images/gmail.png" alt="Gmail" class="w-9 h-8">
                 </a>
                 <a href="https://www.tiktok.com/@letrisindonesia2official" class="hover:underline">
-                    <img src="/images/tik-tok.png" alt="TikTok" class="w-8 h-8">
+                    <img src="/images/tik-tok.png" alt="TikTok" class="w-9 h-8">
                 </a>
                 <a href="https://www.instagram.com/letrisindonesia2official?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==" class="hover:underline">
-                    <img src="/images/instagram.png" alt="Instagram" class="w-8 h-8">
+                    <img src="/images/instagram.png" alt="Instagram" class="w-9 h-8">
                 </a>
                 <a href="https://www.youtube.com/@letrisIndonesia2official" class="hover:underline">
-                    <img src="/images/youtube.png" alt="YouTube" class="w-8 h-8">
+                    <img src="/images/youtube.png" alt="YouTube" class="w-9 h-8">
                 </a>
             </div>
         </div>
