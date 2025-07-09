@@ -74,7 +74,6 @@
             </div>
         </div>
     </section>
-@endsection
 
 <footer class="bg-slate-900 text-white py-6">
     <div class="container mx-auto px-4 flex flex-col md:flex-row justify-between items-center">
