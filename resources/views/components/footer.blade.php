@@ -60,7 +60,7 @@
             </div>
 
             <!-- Ikon Sosial Media -->
-            <div class="flex flex-wrap items-center justify-center gap-4">
+            <div class="flex flex-wrap items-center justify-center gap-5">
                 <a href="mailto:smkletris2020@gmail.com" class="hover:underline">
                     <img src="/images/gmail.png" alt="Gmail" class="w-8 h-8">
                 </a>
