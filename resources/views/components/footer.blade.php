@@ -40,11 +40,10 @@
         </div>
     </div>
 </section>
-
 <footer class="bg-slate-900 text-white py-6">
     <div class="container mx-auto px-4 space-y-6">
         
-        <!-- Info Kontak di bagian atas -->
+        <!-- Info Kontak -->
         <div class="text-sm space-y-1">
             <p><strong>Address:</strong> Jl. Raya Siliwangi No.55, Pondok Benda, Tangerang Selatan, Banten</p>
             <p><strong>Working Hours:</strong> Monday-Friday (8.00 am to 4.00 pm)</p>
@@ -52,29 +51,29 @@
             <p><strong>Email (Hotline):</strong> smkletris2020@gmail.com</p>
         </div>
 
-        <!-- Logo dan Sosial Media sejajar -->
-        <div class="flex flex-col md:flex-row justify-between items-start md:items-center">
-            <!-- Logo dan Nama -->
-            <div class="flex items-center space-x-2 mb-4 md:mb-0">
-                <img src="/images/logoletris.png" class="w-10 h-10" alt="Logo">
-                <span class="font-bold text-lg">SMK Letris Indonesia 2</span>
+        <!-- Logo dan Sosial Media -->
+        <div class="flex flex-col md:flex-row md:items-center md:justify-between gap-4">
+            <!-- Logo dan Nama Sekolah -->
+            <div class="flex items-center gap-3">
+                <img src="/images/logoletris.png" alt="Logo" class="w-10 h-10">
+                <span class="text-lg font-bold">SMK Letris Indonesia 2</span>
             </div>
-            <!-- Sosial Media -->
-            <div class="space-x-4 flex items-center">
+
+            <!-- Ikon Sosial Media -->
+            <div class="flex flex-wrap items-center gap-4">
                 <a href="mailto:smkletris2020@gmail.com" class="hover:underline">
-                    <img src="/images/gmail.png" alt="Gmail" class="w-9 h-8">
+                    <img src="/images/gmail.png" alt="Gmail" class="w-8 h-8">
                 </a>
                 <a href="https://www.tiktok.com/@letrisindonesia2official" class="hover:underline">
-                    <img src="/images/tik-tok.png" alt="TikTok" class="w-9 h-8">
+                    <img src="/images/tik-tok.png" alt="TikTok" class="w-8 h-8">
                 </a>
-                <a href="https://www.instagram.com/letrisindonesia2official?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==" class="hover:underline">
-                    <img src="/images/instagram.png" alt="Instagram" class="w-9 h-8">
+                <a href="https://www.instagram.com/letrisindonesia2official" class="hover:underline">
+                    <img src="/images/instagram.png" alt="Instagram" class="w-8 h-8">
                 </a>
                 <a href="https://www.youtube.com/@letrisIndonesia2official" class="hover:underline">
-                    <img src="/images/youtube.png" alt="YouTube" class="w-9 h-8">
+                    <img src="/images/youtube.png" alt="YouTube" class="w-8 h-8">
                 </a>
             </div>
         </div>
     </div>
 </footer>
-
