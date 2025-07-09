@@ -42,25 +42,29 @@
 </section>
 
 <footer class="bg-slate-900 text-white py-6">
-    <div class="container mx-auto px-4 flex flex-col md:flex-row justify-between items-start md:items-center">
-        <div class="flex items-center space-x-2 mb-4 md:mb-0">
-            <img src="/images/logoletris.png" class="w-10 h-10" alt="Logo">
-            <span class="font-bold text-lg">SMK Letris Indonesia 2</span>
-        </div>
-
-        <!-- Info Kontak dipindahkan ke sini -->
-        <div class="mb-4 md:mb-0 text-sm space-y-1">
+    <div class="container mx-auto px-4 space-y-6">
+        
+        <!-- Info Kontak di atas logo -->
+        <div class="text-sm space-y-1">
             <p><strong>Address:</strong> Jl. Raya Siliwangi No.55, Pondok Benda, Tangerang Selatan, Banten</p>
             <p><strong>Working Hours:</strong> Monday-Friday (8.00 am to 4.00 pm)</p>
             <p><strong>Telephone:</strong> 0851-6186-7926</p>
             <p><strong>Email (Hotline):</strong> smkletris2020@gmail.com</p>
         </div>
 
+        <!-- Logo dan Nama Sekolah -->
+        <div class="flex items-center space-x-2">
+            <img src="/images/logoletris.png" class="w-10 h-10" alt="Logo">
+            <span class="font-bold text-lg">SMK Letris Indonesia 2</span>
+        </div>
+
+        <!-- Link Sosial Media -->
         <div class="space-x-4">
             <a href="mailto:smkletris2020@gmail.com" class="hover:underline">Email</a>
             <a href="https://www.tiktok.com/@letrisindonesia2official" class="hover:underline">Tiktok</a>
             <a href="https://www.instagram.com/letrisindonesia2official?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==" class="hover:underline">Instagram</a>
             <a href="https://www.youtube.com/@letrisIndonesia2official" class="hover:underline">YouTube</a>
         </div>
+
     </div>
 </footer>
