@@ -20,6 +20,7 @@
                     <div>
                         <select class="w-full border border-gray-300 rounded px-4 py-2">
                             <option>Student Admission / Penerimaan Siswa Baru</option>
+                            <option>Other / Lainnya</option>
                         </select>
                     </div>
                     <div>
@@ -30,15 +31,6 @@
                     </div>
                 </form>
 
-                <!-- Info Kontak -->
-                <div class="mt-6 space-y-2 text-sm">
-                    <p><strong>Address:</strong> Jl. Raya Siliwangi No.55, Pondok Benda, Tangerang Selatan, Banten</p>
-                    <p><strong>Working Hours:</strong> Monday-Friday (8.00 am to 4.00 pm)</p>
-                    <p><strong>Telephone:</strong> 0851-6186-7926</p>
-                    <p><strong>Email (Hotline):</strong> smkletris2020@gmail.com</p>
-                </div>
-            </div>
-
             <!-- Google Map -->
             <div>
                 <iframe class="w-full h-96 border" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3965.375221368461!2d106.71348537507359!3d-6.34543169364439!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e69e582501b86cb%3A0xe17c81c2758ace13!2sSMK%20Letris%20Indonesia%202%20%26%20SMK%20Kesehatan%20Letris%20Indonesia%202!5e0!3m2!1sid!2sid!4v1751096328512!5m2!1sid!2sid" allowfullscreen></iframe>
@@ -48,6 +40,14 @@
 </section>
 
 <footer class="bg-slate-900 text-white py-6">
+    <!-- Info Kontak -->
+            <div class="mt-6 space-y-2 text-sm">
+                    <p><strong>Address:</strong> Jl. Raya Siliwangi No.55, Pondok Benda, Tangerang Selatan, Banten</p>
+                    <p><strong>Working Hours:</strong> Monday-Friday (8.00 am to 4.00 pm)</p>
+                    <p><strong>Telephone:</strong> 0851-6186-7926</p>
+                    <p><strong>Email (Hotline):</strong> smkletris2020@gmail.com</p>
+            </div>
+        </div>
     <div class="container mx-auto px-4 flex flex-col md:flex-row justify-between items-center">
         <div class="flex items-center space-x-2">
             <img src="/images/logoletris.png" class="w-10 h-10" alt="Logo">
