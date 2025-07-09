@@ -32,7 +32,7 @@
                 </form>
 
                 <!-- Info Kontak -->
-                <div class="mt-6 space-y-2 text-sm bg-slate-900">
+                <div class="mt-6 space-y-2 text-sm">
                     <p><strong>Address:</strong> Jl. Raya Siliwangi No.55, Pondok Benda, Tangerang Selatan, Banten</p>
                     <p><strong>Working Hours:</strong> Monday-Friday (8.00 am to 4.00 pm)</p>
                     <p><strong>Telephone:</strong> 0851-6186-7926</p>
