@@ -15,8 +15,7 @@
         <nav class="hidden md:flex space-x-6">
             <a href="/" class="hover:underline">Home</a>
             <a href="{{ route('tentang') }}" class="hover:underline">About</a>
-            <a href="{{ route('berita') }}" class="hover:underline">Berita</a>
-            <a href="{{ route('kontak') }}" class="hover:underline">Kontak</a>
+            <a href="{{ route('berita') }}" class="hover:underline">News</a>
             <a href="{{ route('pendaftaran') }}" class="hover:underline">PPDB</a>
         </nav>
     </div>
@@ -26,8 +25,7 @@
         <div class="px-4 pb-4 space-y-2">
             <a href="/" class="block py-2 border-b border-slate-700">Home</a>
             <a href="{{ route('tentang') }}" class="block py-2 border-b border-slate-700">About</a>
-            <a href="{{ route('berita') }}" class="block py-2 border-b border-slate-700">Berita</a>
-            <a href="{{ route('kontak') }}" class="block py-2 border-b border-slate-700">Kontak</a>
+            <a href="{{ route('berita') }}" class="block py-2 border-b border-slate-700">News</a>
             <a href="{{ route('pendaftaran') }}" class="block py-2">PPDB</a>
         </div>
     </div>
