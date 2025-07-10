@@ -14,8 +14,8 @@
         <!-- Desktop Navigation -->
         <nav class="hidden md:flex space-x-6">
             <a href="/" class="hover:underline">Home</a>
-            <a href="{{ route('tentang') }}" class="hover:underline">About</a>
-            <a href="{{ route('berita') }}" class="hover:underline">News</a>
+            <a href="{{ route('tentang') }}" class="hover:underline">Profile</a>
+            <a href="{{ route('berita') }}" class="hover:underline">Berita</a>
             <a href="{{ route('pendaftaran') }}" class="hover:underline">Pendaftaran</a>
         </nav>
     </div>
@@ -24,8 +24,8 @@
     <div id="mobile-menu" class="overflow-hidden max-h-0 md:hidden bg-slate-800 transition-all duration-300">
         <div class="px-4 pb-4 space-y-2">
             <a href="/" class="block py-2 border-b border-slate-700">Home</a>
-            <a href="{{ route('tentang') }}" class="block py-2 border-b border-slate-700">About</a>
-            <a href="{{ route('berita') }}" class="block py-2 border-b border-slate-700">News</a>
+            <a href="{{ route('tentang') }}" class="block py-2 border-b border-slate-700">Profile</a>
+            <a href="{{ route('berita') }}" class="block py-2 border-b border-slate-700">Berita</a>
             <a href="{{ route('pendaftaran') }}" class="block py-2">Pendaftaran</a>
         </div>
     </div>
