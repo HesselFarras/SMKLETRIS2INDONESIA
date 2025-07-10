@@ -33,6 +33,9 @@
                 <a href="https://www.youtube.com/@letrisIndonesia2official" class="hover:underline">
                     <img src="/images/youtube.png" alt="YouTube" class="w-8 h-8">
                 </a>
+                <a href="https://wa.me/6289630290039" class="hover:underline">
+                    <img src="/images/whatsapp.png" alt="YouTube" class="w-8 h-8">
+                </a>
             </div>
         </div>
     </div>
