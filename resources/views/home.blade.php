@@ -24,12 +24,12 @@
             <div class="bg-white p-6 shadow rounded">
                 <h2 class="text-xl font-semibold mb-2">Fasilitas</h2>
                 <p>Fasilitas lengkap mulai dari ruang kelas modern, laboratorium, perpustakaan dan lainnya.</p>
-                <a href="#" class="text-blue-500 mt-2 inline-block">Learn More</a>
+                <a href="{{ route('tentang') }}" class="text-blue-500 mt-2 inline-block">Learn More</a>
             </div>
             <div class="bg-white p-6 shadow rounded">
                 <h2 class="text-xl font-semibold mb-2">Informasi & Berita</h2>
                 <p>Ikuti berita dan update terbaru mengenai kegiatan SMK Letris Indonesia 2.</p>
-                <a href="#" class="text-blue-500 mt-2 inline-block">Learn More</a>
+                <a href="{{ route('berita') }}" class="text-blue-500 mt-2 inline-block">Learn More</a>
             </div>
         </div>
     </section>
