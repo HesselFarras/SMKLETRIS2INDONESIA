@@ -26,7 +26,7 @@
             <a href="/" class="block py-2 border-b border-slate-700">Home</a>
             <a href="{{ route('tentang') }}" class="block py-2 border-b border-slate-700">About</a>
             <a href="{{ route('berita') }}" class="block py-2 border-b border-slate-700">News</a>
-            <a href="{{ route('pendaftaran') }}" class="block py-2">PPDB</a>
+            <a href="{{ route('pendaftaran') }}" class="block py-2">Pendaftaran</a>
         </div>
     </div>
 </header>
