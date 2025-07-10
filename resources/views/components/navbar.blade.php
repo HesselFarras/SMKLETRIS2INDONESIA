@@ -16,7 +16,7 @@
             <a href="/" class="hover:underline">Home</a>
             <a href="{{ route('tentang') }}" class="hover:underline">About</a>
             <a href="{{ route('berita') }}" class="hover:underline">News</a>
-            <a href="{{ route('pendaftaran') }}" class="hover:underline">PPDB</a>
+            <a href="{{ route('pendaftaran') }}" class="hover:underline">Pendaftaran</a>
         </nav>
     </div>
 
