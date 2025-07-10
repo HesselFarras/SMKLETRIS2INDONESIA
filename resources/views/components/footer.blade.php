@@ -5,10 +5,10 @@
         
         <!-- Info Kontak -->
         <div class="text-sm space-y-1">
-            <p><strong>Address:</strong> Jl. Raya Siliwangi No.55, Pondok Benda, Tangerang Selatan, Banten</p>
-            <p><strong>Working Hours:</strong> Monday–Friday (8.00 am to 4.00 pm)</p>
-            <p><strong>Telephone:</strong> 0851-6186-7926</p>
-            <p><strong>Email (Hotline):</strong> smkletris2020@gmail.com</p>
+            <p><strong>Alamat:</strong> Jl. Raya Siliwangi No.55, Pondok Benda, Tangerang Selatan, Banten</p>
+            <p><strong>Jam Kerja:</strong> Senin–Jumat (08.00 - 16.00)</p>
+            <p><strong>Telepon:</strong> 0851-6186-7926</p>
+            <p><strong>Email:</strong> smkletris2020@gmail.com</p>
         </div>
 
         <!-- Logo dan Sosial Media -->
